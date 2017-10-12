@@ -1,4 +1,5 @@
 .DS_Store
 .idea/*
 .ipynb_checkpoints/*
-
+data/*
+_cache__Users_soobin_lsun_classroom_train_lmdb
